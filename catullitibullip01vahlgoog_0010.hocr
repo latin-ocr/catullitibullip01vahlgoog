@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catullitibullip01vahlgoog_0010.png"; bbox 0 0 1852 3128; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 612 404 698 551">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 612 404 698 551">
+     <span class='ocr_line' id='line_1_1' title="bbox 612 404 698 423; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 612 408 625 423; x_wconf 63' lang='grc' dir='ltr'><strong>ν(</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 687 404 698 411; x_wconf 68' lang='grc'><em>”</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 627 530 671 551; baseline -0.045 -10"><span class='ocrx_word' id='word_1_3' title='bbox 627 535 632 551; x_wconf 42' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_4' title='bbox 660 530 671 541; x_wconf 57' lang='lat' dir='ltr'><strong>Lx</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 49 424 762 870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 49 424 762 870">
+     <span class='ocr_line' id='line_1_3' title="bbox 264 424 559 588; baseline -0.007 -53"><span class='ocrx_word' id='word_1_5' title='bbox 264 424 559 588; x_wconf 61' lang='lat' dir='ltr'><strong>QATULLI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 49 690 762 870; baseline 0 -70"><span class='ocrx_word' id='word_1_6' title='bbox 49 690 346 802; x_wconf 17' lang='lat' dir='ltr'><strong>‘TIBULLI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 392 690 762 870; x_wconf 60' lang='lat' dir='ltr'><strong>yssopssfflfl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 293 1047 527 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 293 1047 527 1131">
+     <span class='ocr_line' id='line_1_5' title="bbox 293 1047 527 1131; baseline 0.009 -4"><span class='ocrx_word' id='word_1_8' title='bbox 293 1047 527 1131; x_wconf 77' lang='lat' dir='ltr'><strong>CARMINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 155 1389 630 1495">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 155 1389 630 1495">
+     <span class='ocr_line' id='line_1_6' title="bbox 155 1389 630 1495; baseline 0.006 -39"><span class='ocrx_word' id='word_1_9' title='bbox 155 1486 158 1495; x_wconf 29' lang='grc' dir='ltr'><strong><em>Ι</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 192 1389 428 1457; x_wconf 75' lang='grc' dir='ltr'>ΑΜΑΗΗΙΟΙΟ</span> <span class='ocrx_word' id='word_1_11' title='bbox 454 1392 630 1459; x_wconf 79' lang='lat' dir='ltr'><strong>HAUPTIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 930 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 930 3128">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 930 3128; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 930 3128; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
